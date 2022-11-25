@@ -23,7 +23,7 @@ var varBoolean = true;
 console.log (`
   Variável Numéria = ${num},
   Variável de Texto = ${person}
-  Variável Booleana = ${varBoolean}
+  Variável Boolean = ${varBoolean}
   `)
 
   console.log(`Concatenando Variáveis: `)
